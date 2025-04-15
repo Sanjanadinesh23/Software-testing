@@ -31,3 +31,20 @@ Began working on a Python portfolio project to apply learned concepts.
 Used FastAPI for building and exposing APIs efficiently.
 Briefly came across Python’s __pycache__ during development and understood its purpose in caching compiled bytecode.
 
+
+Day-3
+
+Worked on creating a web portfolio profile and refining it!
+
+
+Day-4
+
+session one:
+
+Learnt common test design techniques
+Equivalence Boundary Decision table State transition Error Guessing
+
+Session two:
+
+Hosted the web portfolio using pythonanywhere 
+
