@@ -48,3 +48,13 @@ Session two:
 
 Hosted the web portfolio using pythonanywhere 
 
+Day-5
+
+learnt about api testing and using postman
+
+
+Day-6
+
+Learnt about automation testing 
+Created a ML model to check tweets wheather they are positive negetive or neutral
+
