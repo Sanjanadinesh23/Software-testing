@@ -13,7 +13,7 @@ Successfully forked a repository and explored making changes to it.
 
 Day -2
 
-session 1:
+session One
 
 Learned about various Agile roles including Project Manager, Scrum Master, Product Owner, Business Analysts, Development Teams, and the importance of customer involvement and feedback.
 Discussed the core principles of the Agile Manifesto and how they shape software development practices.
@@ -26,7 +26,8 @@ SaaS (Software as a Service)
 PaaS (Platform as a Service)
 IaaS (Infrastructure as a Service)
 
-Session 2:
+Session Two:
+
 Began working on a Python portfolio project to apply learned concepts.
 Used FastAPI for building and exposing APIs efficiently.
 Briefly came across Python’s __pycache__ during development and understood its purpose in caching compiled bytecode.
